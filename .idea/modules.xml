@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bookingservice/bookingservice.iml" filepath="$PROJECT_DIR$/bookingservice/bookingservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/discovery-server/discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flightsearchservice/flightsearchservice.iml" filepath="$PROJECT_DIR$/flightsearchservice/flightsearchservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flightservice/flightservice/flightservice.iml" filepath="$PROJECT_DIR$/flightservice/flightservice/flightservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationservice/notification-service.iml" filepath="$PROJECT_DIR$/notificationservice/notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paymentservice/payment-service.iml" filepath="$PROJECT_DIR$/paymentservice/payment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/techworldwithpreet-springboot3.0-microservices.iml" filepath="$PROJECT_DIR$/.idea/techworldwithpreet-springboot3.0-microservices.iml" />
+    </modules>
+  </component>
+</project>
